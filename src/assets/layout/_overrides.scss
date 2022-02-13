@@ -1,0 +1,8 @@
+//Suggested location to add your overrides so that migration would be easy by just updating the SASS folder in the future
+.p-divider.p-divider-horizontal {
+    margin: 0.75rem 0;
+}
+
+.field-checkbox, .field-radiobutton {
+    margin-bottom: 0.5rem;
+}
